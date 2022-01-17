@@ -1,0 +1,6 @@
+class Human {
+  constructor({ ...props}) {
+    
+  }
+  
+}
